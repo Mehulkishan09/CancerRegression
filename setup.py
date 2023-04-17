@@ -1,6 +1,6 @@
 import numpy as np
 from numpy.linalg import inv
-
+import math 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
